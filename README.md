@@ -1,2 +1,2 @@
 # threejs
-Playing around with some three js and dynamic generattion concepts
+Playing around with three js and shaders
